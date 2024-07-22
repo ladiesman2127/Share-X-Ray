@@ -51,7 +51,7 @@ build cmake_object_order_depends_target_Share-X-Ray: phony || Share-X-Ray_autoge
 
 build CMakeFiles\Share-X-Ray.dir\Share-X-Ray_autogen\mocs_compilation.cpp.obj: CXX_COMPILER__Share-X-Ray_unscanned_Debug C$:\Work_Disoft\build-Share-X-Ray-Desktop_Qt_5_15_2_MSVC2019_64bit-Debug\Share-X-Ray_autogen\mocs_compilation.cpp || cmake_object_order_depends_target_Share-X-Ray
   DEFINES = -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NETWORK_LIB -DQT_QMLMODELS_LIB -DQT_QML_LIB -DQT_QUICK_LIB -DQT_XMLPATTERNS_LIB
-  FLAGS = /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MDd /Zi /Ob0 /Od /RTC1 -std:c++17
+  FLAGS = -DQT_QML_DEBUG /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MDd /Zi /Ob0 /Od /RTC1 -std:c++17
   INCLUDES = -IC:\Work_Disoft\build-Share-X-Ray-Desktop_Qt_5_15_2_MSVC2019_64bit-Debug\Share-X-Ray_autogen\include -external:IC:\Qt\5.15.2\msvc2019_64\include -external:IC:\Qt\5.15.2\msvc2019_64\include\QtCore -external:IC:\Qt\5.15.2\msvc2019_64\.\mkspecs\win32-msvc -external:IC:\Qt\5.15.2\msvc2019_64\include\QtQuick -external:IC:\Qt\5.15.2\msvc2019_64\include\QtQmlModels -external:IC:\Qt\5.15.2\msvc2019_64\include\QtQml -external:IC:\Qt\5.15.2\msvc2019_64\include\QtNetwork -external:IC:\Qt\5.15.2\msvc2019_64\include\QtGui -external:IC:\Qt\5.15.2\msvc2019_64\include\QtANGLE -external:IC:\Qt\5.15.2\msvc2019_64\include\QtXmlPatterns -external:W0
   OBJECT_DIR = CMakeFiles\Share-X-Ray.dir
   OBJECT_FILE_DIR = CMakeFiles\Share-X-Ray.dir\Share-X-Ray_autogen
@@ -60,7 +60,7 @@ build CMakeFiles\Share-X-Ray.dir\Share-X-Ray_autogen\mocs_compilation.cpp.obj: C
 
 build CMakeFiles\Share-X-Ray.dir\src\main.cpp.obj: CXX_COMPILER__Share-X-Ray_unscanned_Debug C$:\Work_Disoft\Share-X-Ray\src\main.cpp || cmake_object_order_depends_target_Share-X-Ray
   DEFINES = -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NETWORK_LIB -DQT_QMLMODELS_LIB -DQT_QML_LIB -DQT_QUICK_LIB -DQT_XMLPATTERNS_LIB
-  FLAGS = /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MDd /Zi /Ob0 /Od /RTC1 -std:c++17
+  FLAGS = -DQT_QML_DEBUG /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MDd /Zi /Ob0 /Od /RTC1 -std:c++17
   INCLUDES = -IC:\Work_Disoft\build-Share-X-Ray-Desktop_Qt_5_15_2_MSVC2019_64bit-Debug\Share-X-Ray_autogen\include -external:IC:\Qt\5.15.2\msvc2019_64\include -external:IC:\Qt\5.15.2\msvc2019_64\include\QtCore -external:IC:\Qt\5.15.2\msvc2019_64\.\mkspecs\win32-msvc -external:IC:\Qt\5.15.2\msvc2019_64\include\QtQuick -external:IC:\Qt\5.15.2\msvc2019_64\include\QtQmlModels -external:IC:\Qt\5.15.2\msvc2019_64\include\QtQml -external:IC:\Qt\5.15.2\msvc2019_64\include\QtNetwork -external:IC:\Qt\5.15.2\msvc2019_64\include\QtGui -external:IC:\Qt\5.15.2\msvc2019_64\include\QtANGLE -external:IC:\Qt\5.15.2\msvc2019_64\include\QtXmlPatterns -external:W0
   OBJECT_DIR = CMakeFiles\Share-X-Ray.dir
   OBJECT_FILE_DIR = CMakeFiles\Share-X-Ray.dir\src
@@ -69,7 +69,7 @@ build CMakeFiles\Share-X-Ray.dir\src\main.cpp.obj: CXX_COMPILER__Share-X-Ray_uns
 
 build CMakeFiles\Share-X-Ray.dir\src\imageprovider.cpp.obj: CXX_COMPILER__Share-X-Ray_unscanned_Debug C$:\Work_Disoft\Share-X-Ray\src\imageprovider.cpp || cmake_object_order_depends_target_Share-X-Ray
   DEFINES = -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NETWORK_LIB -DQT_QMLMODELS_LIB -DQT_QML_LIB -DQT_QUICK_LIB -DQT_XMLPATTERNS_LIB
-  FLAGS = /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MDd /Zi /Ob0 /Od /RTC1 -std:c++17
+  FLAGS = -DQT_QML_DEBUG /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MDd /Zi /Ob0 /Od /RTC1 -std:c++17
   INCLUDES = -IC:\Work_Disoft\build-Share-X-Ray-Desktop_Qt_5_15_2_MSVC2019_64bit-Debug\Share-X-Ray_autogen\include -external:IC:\Qt\5.15.2\msvc2019_64\include -external:IC:\Qt\5.15.2\msvc2019_64\include\QtCore -external:IC:\Qt\5.15.2\msvc2019_64\.\mkspecs\win32-msvc -external:IC:\Qt\5.15.2\msvc2019_64\include\QtQuick -external:IC:\Qt\5.15.2\msvc2019_64\include\QtQmlModels -external:IC:\Qt\5.15.2\msvc2019_64\include\QtQml -external:IC:\Qt\5.15.2\msvc2019_64\include\QtNetwork -external:IC:\Qt\5.15.2\msvc2019_64\include\QtGui -external:IC:\Qt\5.15.2\msvc2019_64\include\QtANGLE -external:IC:\Qt\5.15.2\msvc2019_64\include\QtXmlPatterns -external:W0
   OBJECT_DIR = CMakeFiles\Share-X-Ray.dir
   OBJECT_FILE_DIR = CMakeFiles\Share-X-Ray.dir\src
@@ -78,7 +78,7 @@ build CMakeFiles\Share-X-Ray.dir\src\imageprovider.cpp.obj: CXX_COMPILER__Share-
 
 build CMakeFiles\Share-X-Ray.dir\src\coordinates.cpp.obj: CXX_COMPILER__Share-X-Ray_unscanned_Debug C$:\Work_Disoft\Share-X-Ray\src\coordinates.cpp || cmake_object_order_depends_target_Share-X-Ray
   DEFINES = -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NETWORK_LIB -DQT_QMLMODELS_LIB -DQT_QML_LIB -DQT_QUICK_LIB -DQT_XMLPATTERNS_LIB
-  FLAGS = /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MDd /Zi /Ob0 /Od /RTC1 -std:c++17
+  FLAGS = -DQT_QML_DEBUG /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MDd /Zi /Ob0 /Od /RTC1 -std:c++17
   INCLUDES = -IC:\Work_Disoft\build-Share-X-Ray-Desktop_Qt_5_15_2_MSVC2019_64bit-Debug\Share-X-Ray_autogen\include -external:IC:\Qt\5.15.2\msvc2019_64\include -external:IC:\Qt\5.15.2\msvc2019_64\include\QtCore -external:IC:\Qt\5.15.2\msvc2019_64\.\mkspecs\win32-msvc -external:IC:\Qt\5.15.2\msvc2019_64\include\QtQuick -external:IC:\Qt\5.15.2\msvc2019_64\include\QtQmlModels -external:IC:\Qt\5.15.2\msvc2019_64\include\QtQml -external:IC:\Qt\5.15.2\msvc2019_64\include\QtNetwork -external:IC:\Qt\5.15.2\msvc2019_64\include\QtGui -external:IC:\Qt\5.15.2\msvc2019_64\include\QtANGLE -external:IC:\Qt\5.15.2\msvc2019_64\include\QtXmlPatterns -external:W0
   OBJECT_DIR = CMakeFiles\Share-X-Ray.dir
   OBJECT_FILE_DIR = CMakeFiles\Share-X-Ray.dir\src
@@ -87,7 +87,7 @@ build CMakeFiles\Share-X-Ray.dir\src\coordinates.cpp.obj: CXX_COMPILER__Share-X-
 
 build CMakeFiles\Share-X-Ray.dir\Share-X-Ray_autogen\UVLADIE3JM\qrc_qml.cpp.obj: CXX_COMPILER__Share-X-Ray_unscanned_Debug C$:\Work_Disoft\build-Share-X-Ray-Desktop_Qt_5_15_2_MSVC2019_64bit-Debug\Share-X-Ray_autogen\UVLADIE3JM\qrc_qml.cpp || cmake_object_order_depends_target_Share-X-Ray
   DEFINES = -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NETWORK_LIB -DQT_QMLMODELS_LIB -DQT_QML_LIB -DQT_QUICK_LIB -DQT_XMLPATTERNS_LIB
-  FLAGS = /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MDd /Zi /Ob0 /Od /RTC1 -std:c++17
+  FLAGS = -DQT_QML_DEBUG /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MDd /Zi /Ob0 /Od /RTC1 -std:c++17
   INCLUDES = -IC:\Work_Disoft\build-Share-X-Ray-Desktop_Qt_5_15_2_MSVC2019_64bit-Debug\Share-X-Ray_autogen\include -external:IC:\Qt\5.15.2\msvc2019_64\include -external:IC:\Qt\5.15.2\msvc2019_64\include\QtCore -external:IC:\Qt\5.15.2\msvc2019_64\.\mkspecs\win32-msvc -external:IC:\Qt\5.15.2\msvc2019_64\include\QtQuick -external:IC:\Qt\5.15.2\msvc2019_64\include\QtQmlModels -external:IC:\Qt\5.15.2\msvc2019_64\include\QtQml -external:IC:\Qt\5.15.2\msvc2019_64\include\QtNetwork -external:IC:\Qt\5.15.2\msvc2019_64\include\QtGui -external:IC:\Qt\5.15.2\msvc2019_64\include\QtANGLE -external:IC:\Qt\5.15.2\msvc2019_64\include\QtXmlPatterns -external:W0
   OBJECT_DIR = CMakeFiles\Share-X-Ray.dir
   OBJECT_FILE_DIR = CMakeFiles\Share-X-Ray.dir\Share-X-Ray_autogen\UVLADIE3JM
@@ -103,8 +103,8 @@ build CMakeFiles\Share-X-Ray.dir\Share-X-Ray_autogen\UVLADIE3JM\qrc_qml.cpp.obj:
 # Link the executable Share-X-Ray.exe
 
 build Share-X-Ray.exe: CXX_EXECUTABLE_LINKER__Share-X-Ray_Debug CMakeFiles\Share-X-Ray.dir\Share-X-Ray_autogen\mocs_compilation.cpp.obj CMakeFiles\Share-X-Ray.dir\src\main.cpp.obj CMakeFiles\Share-X-Ray.dir\src\imageprovider.cpp.obj CMakeFiles\Share-X-Ray.dir\src\coordinates.cpp.obj CMakeFiles\Share-X-Ray.dir\Share-X-Ray_autogen\UVLADIE3JM\qrc_qml.cpp.obj | C$:\Qt\5.15.2\msvc2019_64\lib\Qt5Quickd.lib C$:\Qt\5.15.2\msvc2019_64\lib\Qt5XmlPatternsd.lib C$:\Qt\5.15.2\msvc2019_64\lib\Qt5QmlModelsd.lib C$:\Qt\5.15.2\msvc2019_64\lib\Qt5Qmld.lib C$:\Qt\5.15.2\msvc2019_64\lib\Qt5Guid.lib C$:\Qt\5.15.2\msvc2019_64\lib\Qt5Networkd.lib C$:\Qt\5.15.2\msvc2019_64\lib\Qt5Cored.lib C$:\Qt\5.15.2\msvc2019_64\lib\qtmaind.lib || Share-X-Ray_autogen Share-X-Ray_autogen_timestamp_deps
-  FLAGS = /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MDd /Zi /Ob0 /Od /RTC1
-  LINK_FLAGS = -static /debug /INCREMENTAL /subsystem:windows
+  FLAGS = -DQT_QML_DEBUG /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MDd /Zi /Ob0 /Od /RTC1
+  LINK_FLAGS = /machine:x64 /debug /INCREMENTAL /subsystem:windows
   LINK_LIBRARIES = C:\Qt\5.15.2\msvc2019_64\lib\Qt5Quickd.lib  C:\Qt\5.15.2\msvc2019_64\lib\Qt5XmlPatternsd.lib  C:\Qt\5.15.2\msvc2019_64\lib\Qt5QmlModelsd.lib  C:\Qt\5.15.2\msvc2019_64\lib\Qt5Qmld.lib  C:\Qt\5.15.2\msvc2019_64\lib\Qt5Guid.lib  C:\Qt\5.15.2\msvc2019_64\lib\Qt5Networkd.lib  C:\Qt\5.15.2\msvc2019_64\lib\Qt5Cored.lib  C:\Qt\5.15.2\msvc2019_64\lib\qtmaind.lib  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib
   OBJECT_DIR = CMakeFiles\Share-X-Ray.dir
   POST_BUILD = cd .
@@ -203,7 +203,7 @@ build Share-X-Ray_autogen\UVLADIE3JM\qrc_qml.cpp | ${cmake_ninja_workdir}Share-X
 #############################################
 # Phony custom command for CMakeFiles\Share-X-Ray_autogen_timestamp_deps
 
-build CMakeFiles\Share-X-Ray_autogen_timestamp_deps | ${cmake_ninja_workdir}CMakeFiles\Share-X-Ray_autogen_timestamp_deps: phony C$:\Qt\5.15.2\msvc2019_64\lib\Qt5Cored.lib C$:\Qt\5.15.2\msvc2019_64\bin\moc.exe C$:\Qt\5.15.2\msvc2019_64\lib\Qt5Quickd.lib C$:\Qt\5.15.2\msvc2019_64\lib\Qt5XmlPatternsd.lib
+build CMakeFiles\Share-X-Ray_autogen_timestamp_deps | ${cmake_ninja_workdir}CMakeFiles\Share-X-Ray_autogen_timestamp_deps: phony C$:\Qt\5.15.2\msvc2019_64\lib\Qt5Cored.lib C$:\Qt\5.15.2\msvc2019_64\bin\moc.exe C$:\Qt\5.15.2\msvc2019_64\lib\Qt5XmlPatternsd.lib C$:\Qt\5.15.2\msvc2019_64\lib\Qt5Quickd.lib
 
 
 #############################################

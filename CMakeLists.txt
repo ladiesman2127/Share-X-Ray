@@ -19,7 +19,7 @@ set(PROJECT_SOURCES
 )
 
 file(COPY assets DESTINATION ${CMAKE_BINARY_DIR})
-
+file(COPY C:/Qt/5.15.2/msvc2019_64/bin/ DESTINATION ${CMAKE_BINARY_DIR})
 
 if(${QT_VERSION_MAJOR} GREATER_EQUAL 6)
     qt_add_executable(Share-X-Ray
