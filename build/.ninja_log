@@ -1,0 +1,17 @@
+# ninja log v5
+1991	2521	7433562711963037	Share-X-Ray.exe	c3be26588e152611
+17	321	7433562689795855	Share-X-Ray_autogen/timestamp	39aa18bc7aebd58e
+17	321	7433562689795855	Share-X-Ray_autogen/mocs_compilation.cpp	39aa18bc7aebd58e
+17	321	7433562689795855	C:/Work_Disoft/build-Share-X-Ray-Desktop_Qt_5_15_2_MSVC2019_64bit-Debug/Share-X-Ray_autogen/mocs_compilation.cpp	39aa18bc7aebd58e
+17	321	7433562689795855	C:/Work_Disoft/build-Share-X-Ray-Desktop_Qt_5_15_2_MSVC2019_64bit-Debug/Share-X-Ray_autogen/timestamp	39aa18bc7aebd58e
+323	422	7433562691270575	Share-X-Ray_autogen/UVLADIE3JM/qrc_qml.cpp	c61b08102722671b
+323	422	7433562691270575	C:/Work_Disoft/build-Share-X-Ray-Desktop_Qt_5_15_2_MSVC2019_64bit-Debug/Share-X-Ray_autogen/UVLADIE3JM/qrc_qml.cpp	c61b08102722671b
+447	582	7433562692965438	CMakeFiles/Share-X-Ray.dir/Share-X-Ray_autogen/UVLADIE3JM/qrc_qml.cpp.obj	643f681227e9dc3f
+423	1838	7433562705348836	CMakeFiles/Share-X-Ray.dir/Share-X-Ray_autogen/mocs_compilation.cpp.obj	7f0c40bd38d059f6
+443	1877	7433562705785344	CMakeFiles/Share-X-Ray.dir/src/coordinates.cpp.obj	f5d31647bac39b9a
+432	1970	7433562706614778	CMakeFiles/Share-X-Ray.dir/src/imageprovider.cpp.obj	f2ae45cefceda8e6
+428	1990	7433562706764597	CMakeFiles/Share-X-Ray.dir/src/main.cpp.obj	fec81462d90e247d
+81	291	7433562989960934	Share-X-Ray_autogen/timestamp	39aa18bc7aebd58e
+81	291	7433562989960934	Share-X-Ray_autogen/mocs_compilation.cpp	39aa18bc7aebd58e
+81	291	7433562989960934	C:/Work_Disoft/build-Share-X-Ray-Desktop_Qt_5_15_2_MSVC2019_64bit-Debug/Share-X-Ray_autogen/timestamp	39aa18bc7aebd58e
+81	291	7433562989960934	C:/Work_Disoft/build-Share-X-Ray-Desktop_Qt_5_15_2_MSVC2019_64bit-Debug/Share-X-Ray_autogen/mocs_compilation.cpp	39aa18bc7aebd58e
