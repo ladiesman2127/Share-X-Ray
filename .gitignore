@@ -74,7 +74,6 @@ CMakeLists.txt.user*
 
 
 # CMake
-build/
 CMakeLists.txt.user
 CMakeFiles/
 CMakeCache.txt
